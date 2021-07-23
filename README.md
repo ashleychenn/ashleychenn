@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ashleychenn
-- 👀 I’m interested in ESG
+- 🌱 My background is in ESG and digital marketing
 - 💞️ I’m looking to collaborate on data science projects
 - 🖋 Find me on Medium @ashleystevenschenn
 - 📫 Reach me at ashleychenn@icloud.com
