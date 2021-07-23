@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ashleychenn
 - 🌱 My background is in ESG and digital marketing
 - 💞️ I’m looking to collaborate on data science projects
-- 🖋 Find me on Medium @ashleystevenschenn
+- 🖋 Find me on Medium <a href="https://ashleystevenschenn.medium.com">@ashleystevenschenn</a>
 - 📫 Reach me at ashleychenn@icloud.com
 
 <!---
