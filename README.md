@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ashleychenn
 - 👀 I’m interested in ESG
-- 🌱 I’m currently learning Python and data science
 - 💞️ I’m looking to collaborate on data science projects
+- 🖋 Find me on Medium @ashleystevenschenn
 - 📫 Reach me at ashleychenn@icloud.com
 
 <!---
