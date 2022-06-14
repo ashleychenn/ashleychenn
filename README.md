@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ashleychenn
-- 💞️ I’m looking to collaborate on natural language processing projects
+- 🌱 I research tech and sustainability
 - 📫 Reach me at ashleychenn@icloud.com
 <!--- - 🖋 Find me on Medium <a href="https://ashleystevenschenn.medium.com">@ashleystevenschenn</a> --->
 
