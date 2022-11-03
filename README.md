@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ashleychenn
-- 🌱 I research tech and sustainability
+- 🌱 I research Web3-related topics
 - 📫 Reach me at ashleychenn@icloud.com
 <!--- - 🖋 Find me on Medium <a href="https://ashleystevenschenn.medium.com">@ashleystevenschenn</a> --->
 
